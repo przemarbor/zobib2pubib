@@ -3,7 +3,7 @@
 Want to know how to use this repository? Go straight [here](#how-to-use-this-repository).
 
 Recently I decided to give a try working with [DocOnce](http://hplgit.github.io/doconce/doc/pub/manual/manual.html) program in order to write my own documents.
-One of the first problems I hit was working with bibliography. Well, the authors of DocOnce honestly admits in their manual that this, in fact, may be a problem and advise to use some script to automate the work of transforming your .bib file to the form that will be accepted by DocOnce program. This is my try.
+One of the first problems I hit was working with bibliography. Well, the authors of DocOnce honestly admits in their manual that this, in fact, might be troublesome and advise to use a script to automate the work of transforming your .bib file to the form that will be accepted by DocOnce program. This is my try.
 
 I have a large bibliography run by Zotero, however in DocOnce you cannot use standard LaTeX .bib files (that can be easily exported from Zotero). You need to transform them into the format that is compatible with DocOnce, which is Publish.
 This transformation process can be a daunting and troublesome task, so here I gathered some hints and scripts that can be used to ease the pain a bit.
